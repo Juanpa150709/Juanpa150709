@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juanpa150709
-- 👀 I’m interested in Python, Javascript and C
+- 👀 I’m interested in Python, Java, Javascript and C
 - 🌱 I’m currently learning Python
 <!---💞️ I’m looking to collaborate on ...
 📫 How to reach me ...
